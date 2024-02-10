@@ -5,7 +5,7 @@
   <h3 align="center">SonGokuBot</h3>
 
   <p align="center">
-    Son Goku Bot is an updated version of <a href="https://github.com/gokhansarapevi/SonGokuBot">Discord Bot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
+    Son Goku Bot is an updated version of <a href="https://github.com/gokhansarapevi/SonGokuBot">Discord Bot</a>, an advanced Discord multipurpose bot containing many comments and hooks.<br> Utilizing dragon powers of web.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
     <br />
     <br />
     <a href="https://github.com/gokhansarapevi/SonGokuBot/issues">Report Bug</a>
@@ -41,7 +41,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - [x] Easy to use
 - [x] Customizable
 - [x] And much more
-- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=860390761307439114&permissions=8&scope=bot%20applications.commands)
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1203065035153219664&permissions=8&scope=bot)
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
