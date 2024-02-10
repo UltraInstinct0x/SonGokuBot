@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://github.com/gokhansarapevi/SonGokuBot---Discord-Bot">
+  <a href="https://github.com/gokhansarapevi/SonGokuBot">
   </a>
 
   <h3 align="center">SonGokuBot</h3>
 
   <p align="center">
-    Son Goku Bot is an updated version of <a href="https://github.com/gokhansarapevi/SonGokuBot---Discord-Bot/issues">Discord Bot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
+    Son Goku Bot is an updated version of <a href="https://github.com/gokhansarapevi/SonGokuBot">Discord Bot</a>, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
     <br />
     <br />
-    <a href="https://github.com/gokhansarapevi/SonGokuBot---SonGokuBot">Report Bug</a>
+    <a href="https://github.com/gokhansarapevi/SonGokuBot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/gokhansarapevi/SonGokuBot---SonGokuBot">Request Feature</a>
+    <a href="https://github.com/gokhansarapevi/SonGokuBot">Request Feature</a>
   </p>
 </p>
 
@@ -46,7 +46,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <br />
 <p align="center">
   <a href="https://github.com/gokhansarapevi/SonGokuBot">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
+    <img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206006035685449758/image.png?ex=65da6fa5&is=65c7faa5&hm=569f91b3486eebf76e4c4236f7cb347f845a0e96ceb63ff019295d1dbc69a265&">
   </a>
 </p>
 
@@ -54,7 +54,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 - NodeJs v17+
 - Java v13 for lavalink server.
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
-- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
+- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/)
 - Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
 - OpenAI API Key `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
 - ClientID `for loading slash commands.` [Discord Developers Portal](https://discord.com/developers/applications)
@@ -80,9 +80,9 @@ node src/index.js
 ```
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
-[![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
+[![DiscordBanner](https://invidget.switchblade.xyz/J9Nz3Rp2tn)](https://discord.gg/J9Nz3Rp2tn)
 
-[Support Server](https://discord.gg/techpoint-1016942011024158782) - SonGokuBot's Support Server Invite
+[Support Server](https://discord.gg/J9Nz3Rp2tn) - SonGokuBot's Support Server Invite
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
