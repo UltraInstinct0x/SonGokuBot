@@ -5,7 +5,7 @@
   <h3 align="center">SonGokuBot</h3>
 
   <p align="center">
-    Son Goku Bot is an updated version of <a href="https://github.com/gokhansarapevi/SonGokuBot">Discord Bot</a>, an advanced Discord multipurpose bot containing many comments and hooks.<br> Utilizing dragon powers of web.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
+    Son Goku Bot is an updated version of <a href="https://github.com/CorwinDev/Discord-Bot">Discord Bot</a>, an advanced Discord multipurpose bot containing many comments and hooks.<br> Utilizing dragon powers of web.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
     <br />
     <br />
     <a href="https://github.com/gokhansarapevi/SonGokuBot/issues">Report Bug</a>
@@ -17,7 +17,7 @@
 <!-- NOTICE -->
 
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice 
-> You may not claim this as your own! The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and updated by me(SonGokuBot)
+> You may not claim this as your own! The original source was created by [Dotwood Media](https://github.com/DotwoodMedia) and [Graphix Development](https://github.com/GraphixDevelopment). The source is modified and updated by me (gokhansarapevi).
 
 > SonGokuBot is a multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
 If you like this repository, feel free to leave a star ⭐ to motivate me!
