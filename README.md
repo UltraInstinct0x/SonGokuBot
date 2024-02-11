@@ -25,7 +25,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <!-- ABOUT THE PROJECT -->
 
 ## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SonGokuBot&repo=SonGokuBot&theme=tokyonight)](https://github.com/gokhansarapevi/SonGokuBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokhansarapevi&repo=SonGokuBot&theme=tokyonight)](https://github.com/gokhansarapevi/SonGokuBot)
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14

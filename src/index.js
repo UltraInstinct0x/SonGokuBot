@@ -47,7 +47,7 @@ if (process.env.TOPGG_TOKEN) {
 console.clear();
 console.log(chalk.blue(chalk.bold(`System`)), (chalk.white(`>>`)), (chalk.green(`Starting up`)), (chalk.white(`...`)))
 console.log(`\u001b[0m`)
-console.log(chalk.red(`© SonGokuBot | 2021 - ${new Date().getFullYear()}`))
+console.log(chalk.red(`© SonGokuBot | 2024 - ${new Date().getFullYear()}`))
 console.log(chalk.red(`All rights reserved`))
 console.log(`\u001b[0m`)
 console.log(`\u001b[0m`)
@@ -72,7 +72,7 @@ manager.on('shardCreate', shard => {
         ])
         .setColor(config.colors.normal)
     startLogs.send({
-        username: 'Bot Logs',
+        username: 'Dragon Logs',
         embeds: [embed],
     });
 
@@ -90,7 +90,7 @@ manager.on('shardCreate', shard => {
             ])
             .setColor(config.colors.normal)
         shardLogs.send({
-            username: 'Bot Logs',
+            username: 'Dragon Logs',
             embeds: [embed]
         });
 
@@ -109,7 +109,7 @@ manager.on('shardCreate', shard => {
                 ])
                 .setColor(config.colors.normal)
             shardLogs.send({
-                username: 'Bot Logs',
+                username: 'Dragon Logs',
                 embeds: [embed]
             });
         }
@@ -121,7 +121,7 @@ manager.on('shardCreate', shard => {
             .setDescription("Dumping socket close event...")
             .setColor(config.colors.normal)
         shardLogs.send({
-            username: 'Bot Logs',
+            username: 'Dragon Logs',
             embeds: [embed],
         });
     });
@@ -131,7 +131,7 @@ manager.on('shardCreate', shard => {
             .setTitle(`🚨・Reconnecting shard ${shard.id + 1}/${manager.totalShards}`)
             .setColor(config.colors.normal)
         shardLogs.send({
-            username: 'Bot Logs',
+            username: 'Dragon Logs',
             embeds: [embed],
         });
     });
@@ -170,7 +170,7 @@ process.on('unhandledRejection', error => {
             }
         ])
     consoleLogs.send({
-        username: 'Bot Logs',
+        username: 'Dragon Logs',
         embeds: [embed],
     }).catch(() => {
         console.log('Error sending unhandled promise rejection to webhook')
@@ -189,7 +189,7 @@ process.on('warning', warn => {
             },
         ])
     warnLogs.send({
-        username: 'Bot Logs',
+        username: 'Dragon Logs',
         embeds: [embed],
     }).catch(() => {
         console.log('Error sending warning to webhook')
