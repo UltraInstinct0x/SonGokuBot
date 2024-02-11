@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gokhansarapevi/SonGokuBot">
-   <img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206333264227209316/DALLE_2024-02-11_23.17.27_-_Create_a_detailed_preview_of_an_animated_image_for_a_GitHub_readme._The_image_should_prominently_feature_the_text_SonGokuBot_in_the_center_and_be_th.webp?ex=65dba066&is=65c92b66&hm=225ddf02e2da8d30b85bbfaf83a73b956ce7b59422bc2fbf12912bd187cb1f2b&" alt="Pbot-plus" width="auto" height="200">
+   <img src="https://cdn.discordapp.com/attachments/1203065884990644250/1206333264227209316/DALLE_2024-02-11_23.17.27_-_Create_a_detailed_preview_of_an_animated_image_for_a_GitHub_readme._The_image_should_prominently_feature_the_text_SonGokuBot_in_the_center_and_be_th.webp?ex=65dba066&is=65c92b66&hm=225ddf02e2da8d30b85bbfaf83a73b956ce7b59422bc2fbf12912bd187cb1f2b&" alt="Pbot-plus" width="auto" height="450">
   </a>
 
   <h3 align="center">SonGokuBot</h3>
