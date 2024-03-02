@@ -34,11 +34,12 @@ const shardLogs = new Discord.WebhookClient({
     id: webhook.shardLogs.id,
     token: webhook.shardLogs.token,
 });
-
 const manager = new Discord.ShardingManager('./src/bot.js', {
     totalShards: 'auto',
     token: process.env.DISCORD_TOKEN,
-    respawn: true
+    respawn: true,
+    shardArgs: ['--trace-warnings'],
+    readyTimeout: 60000 // Increase timeout to 60 seconds
 });
 if (process.env.TOPGG_TOKEN) {
     const { AutoPoster } = require('topgg-autoposter');
