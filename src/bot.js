@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const fs = require('fs');
+const path = require('path');
 
 const { Manager } = require("erela.js");
 const Spotify = require("erela.js-spotify");
@@ -148,9 +149,13 @@ const warnLogs = new Discord.WebhookClient({
 
 // Load handlers
 fs.readdirSync('./src/handlers').forEach((dir) => {
-    fs.readdirSync(`./src/handlers/${dir}`).forEach((handler) => {
-        require(`./handlers/${dir}/${handler}`)(client);
-    });
+    const dirPath = path.join('./src/handlers', dir);
+    // Check if the path is a directory
+    if (fs.statSync(dirPath).isDirectory()) {
+        fs.readdirSync(dirPath).forEach((handler) => {
+            require(`./handlers/${dir}/${handler}`)(client);
+        });
+    }
 });
 
 client.login(process.env.DISCORD_TOKEN);
