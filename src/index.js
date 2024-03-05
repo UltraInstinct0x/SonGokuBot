@@ -55,8 +55,9 @@ console.log(`\u001b[0m`)
 console.log(chalk.blue(chalk.bold(`System`)), (chalk.white(`>>`)), chalk.red(`Version ${require(`${process.cwd()}/package.json`).version}`), (chalk.green(`loaded`)))
 console.log(`\u001b[0m`);
 
-manager.on('shardCreate', shard => {
-    let embed = new Discord.EmbedBuilder()
+manager.on('shardCreate', async (shard) => {
+    console.log('Shard Launched')
+        let embed = new Discord.EmbedBuilder()
         .setTitle(`🆙・Launching shard`)
         .setDescription(`A shard has just been launched`)
         .setFields([
@@ -136,8 +137,10 @@ manager.on('shardCreate', shard => {
             embeds: [embed],
         });
     });
-});
-
+    shard.on('error', (error) => {
+       console.error(error)
+    })
+  })
 
 manager.spawn();
 
